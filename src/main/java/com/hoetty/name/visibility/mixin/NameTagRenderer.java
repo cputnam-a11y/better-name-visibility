@@ -1,7 +1,6 @@
 package com.hoetty.name.visibility.mixin;
 
 import com.hoetty.name.visibility.Main;
-import com.llamalad7.mixinextras.injector.wrapmethod.WrapMethod;
 import com.llamalad7.mixinextras.injector.wrapoperation.Operation;
 import com.llamalad7.mixinextras.injector.wrapoperation.WrapOperation;
 import net.minecraft.client.font.TextRenderer;
