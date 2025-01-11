@@ -1,4 +1,6 @@
 {
     "key.name_visibility.toggleNames":"Toggle Better Name Visibility",
-    "category.name_visibility.keybindcategory":"Better Name Visibility"
+    "category.name_visibility.keybindcategory":"Better Name Visibility",
+    "message.name_visibility.enable": "Better Name Visibility §aON",
+    "message.name_visibility.disable": "Better Name Visibility §cOFF"
 }
